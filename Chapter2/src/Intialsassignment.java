@@ -1,6 +1,6 @@
 /*
 
-Program: TicTacToe.java         Last Date of this Revision: February 27 2022
+Program: Intials assignment        Last Date of this Revision: February 27 2022
 
 Purpose: Present my initials 
 
