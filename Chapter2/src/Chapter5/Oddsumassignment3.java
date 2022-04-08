@@ -32,7 +32,7 @@ public class Oddsumassignment3
 			System.out.println(usernum); // displays all odd numbers 
 		 
 		}
-		
+		System.out.print("Sum of all numbers: \n");
 		System.out.println(sum); // displays sum of all odd numbers 
 	}
 	
